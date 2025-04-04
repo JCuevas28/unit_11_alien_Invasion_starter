@@ -5,3 +5,4 @@ pathlib==1.0.1
 pluggy==1.5.0
 pygame==2.6.1
 pytest==8.3.5
+ 
