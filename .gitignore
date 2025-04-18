@@ -8,3 +8,4 @@ __pycache__/
 # Ignore other unwanted files
 *.log
 *.tmp
+ 
